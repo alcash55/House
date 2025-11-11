@@ -1,15 +1,5 @@
 # House stuff
 
-## Foundation questions
-
-- Do i need to get a sectrion for my neighbors to sign off on
-- Do i need to schedule floor people before i schedule foundration work
-- Is the interest rate on the outstanding or on the whole costs for the first 3 payment options
-- move or disconnect AC units
-- How much of a mess will be made inside when drilling. What prep do I need to have beforehand to contain dirt etc.
-
-When he updates the documentation be sure to include not needing to move the AC units
-
 ## Deck timeline
 
 ### All but two of these issues were missed by the home inspector and were not disclosed by previous owners
