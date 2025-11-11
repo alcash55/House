@@ -77,4 +77,4 @@ When he updates the documentation be sure to include not needing to move the AC 
 
 ## House TODO
 
--
+- Blinds
