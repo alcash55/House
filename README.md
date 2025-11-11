@@ -44,7 +44,7 @@
 
 ## House upgrades
 
-- kitchen sink 2025
+- kitchen sink/faucet 2025
 - kitchen handles 2025
 - kitchen over head light 2025
 - overhead stairs light 2025
@@ -68,3 +68,11 @@
 ## House TODO
 
 - Blinds
+- Footrail
+- Garage door opener
+- Re-paint siding that has water damage
+- Re-caulk siding where it is missing or damaged
+- Replace light switches in living room
+- Fix and paint island
+- Paint upstairs guest bathroom
+- Label fuse box
