@@ -160,29 +160,29 @@
 
 ## House upgrades
 
-| **Upgrade**                                                                                           | **Year** | **Cost** |
-| ----------------------------------------------------------------------------------------------------- | -------- | -------- |
-| Kitchen sink/faucet                                                                                   | 2025     |          |
-| Kitchen handles                                                                                       | 2025     |          |
-| Kitchen overhead light                                                                                | 2025     |          |
-| Overhead stairs light                                                                                 | 2025     |          |
-| Add box for loose wire in attic                                                                       | 2025     |          |
-| Outdoor flood light                                                                                   | 2025     |          |
-| Courtyard/deck outdoor lights                                                                         | 2025     |          |
-| Dining room overhead light                                                                            | 2025     |          |
-| Gutter guards                                                                                         | 2025     |          |
-| Courtyard downspout                                                                                   | 2025     |          |
-| Deck/balcony (fix rot, new railing, upgrade to Trex, new ceiling fan)                                 | 2025     |          |
-| Ceiling fans (master, living room, deck)                                                              | 2025     |          |
-| Downstairs bathroom (paint vanity, new sink, paint walls, towel holder, TP holder, hand towel holder) | 2025     |          |
-| Water shut-offs (downstairs & guest bathrooms)                                                        | 2025     |          |
-| Foundation                                                                                            | 2025     |          |
-| Paint garage                                                                                          | 2025     |          |
-| 2× garage door opener                                                                                 | 2025     |          |
-| Re-caulk/replace siding                                                                               | 2025     |          |
-| Replace light switches (hallway)                                                                      | 2025     |          |
-| Caulking driveway control joints                                                                      | 2025     |          |
-| Replace master bath shower head                                                                       | 2025     |          |
+| **Upgrade**                                                                                                  | **Year** | **Cost** |
+| ------------------------------------------------------------------------------------------------------------ | -------- | -------- |
+| Kitchen sink/faucet                                                                                          | 2025     |          |
+| Kitchen handles                                                                                              | 2025     |          |
+| Kitchen overhead light                                                                                       | 2025     |          |
+| Overhead stairs light                                                                                        | 2025     |          |
+| Add box for loose wire in attic                                                                              | 2025     |          |
+| Outdoor flood light                                                                                          | 2025     |          |
+| Courtyard/deck outdoor lights                                                                                | 2025     |          |
+| Dining room overhead light                                                                                   | 2025     |          |
+| Gutter guards                                                                                                | 2025     |          |
+| Courtyard downspout                                                                                          | 2025     |          |
+| Deck/balcony (fix rot, new railing, upgrade to Trex, new ceiling fan)                                        | 2025     |          |
+| Ceiling fans (master, living room, deck)                                                                     | 2025     |          |
+| Downstairs bathroom (paint vanity, new quartz sink, paint walls, towel holder, TP holder, hand towel holder) | 2025     |          |
+| Water shut-offs (downstairs & guest bathrooms)                                                               | 2025     |          |
+| Foundation                                                                                                   | 2025     |          |
+| Paint garage                                                                                                 | 2025     |          |
+| 2× garage door opener                                                                                        | 2025     |          |
+| Re-caulk/replace siding                                                                                      | 2025     |          |
+| Replace light switches (hallway)                                                                             | 2025     |          |
+| Caulking driveway control joints                                                                             | 2025     |          |
+| Replace master bath shower head                                                                              | 2025     |          |
 
 ## House TODO
 
@@ -191,7 +191,17 @@
 - Garage door opener
 - Re-paint siding that has water damage
 - Re-caulk siding where it is missing or damaged
+- Caulk kitchen granite
+- Caulk and repaint front door
 - Replace light switches in living room
+- Replace light switch and disposal switch in kitchen
 - Fix and paint island
 - Paint upstairs guest bathroom
 - Label fuse box
+- replace ac unit filter?
+- Check on bathroom switch, ensure it is gfci
+- Install new shower head in master bathroom, move old shower head to downstairs shower
+- Re-wire breakfast nook ceiling fan
+- Fix the back gate + rig it up to always close if left open
+- Talk to next door neighbors pulling back turf carpet and pulling up trex boards
+- fix ceiling paint around the new ciling vents in office and dining room
