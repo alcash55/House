@@ -2,7 +2,7 @@
 
 ## Deck timeline
 
-### All but two of these issues were missed by the home inspector and were not disclosed by previous owners
+### All of these issues were not disclosed by previous owners
 
 1.  Noticed main overhang from support post to support joist was sagging, and deck overhang had damages that needed fixing
     <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
