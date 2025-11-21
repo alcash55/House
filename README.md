@@ -205,3 +205,5 @@
 - Fix the back gate + rig it up to always close if left open
 - Talk to next door neighbors pulling back turf carpet and pulling up trex boards
 - fix ceiling paint around the new ciling vents in office and dining room
+- install downstairs bathroom handtowel holder
+- install gfci in master bathroom
