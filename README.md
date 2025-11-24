@@ -186,7 +186,8 @@
 
 ## House TODO
 
-- Blinds
+- Replace blinds at top of stairs
+- Replace missing dowle rod for office blinds
 - Footrail
 - Garage door opener
 - Fix Garage door storage that mounts to the wall by the garage door
