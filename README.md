@@ -183,13 +183,14 @@
 | Replace light switches (hallway)                                                                             | 2025     |          |
 | Caulking driveway control joints                                                                             | 2025     |          |
 | Replace master bath shower head                                                                              | 2025     |          |
+| Add missing GFCI in upstairs guest bathroom                                                                  | 2025     |          |
+| Add missing GFCI in master bathroom                                                                          | 2025     |          |
 
 ## House TODO
 
 - Replace blinds at top of stairs
 - Replace missing dowle rod for office blinds
-- Footrail
-- Garage door opener
+- Install footrail
 - Fix Garage door storage that mounts to the wall by the garage door
 - Re-paint siding that has water damage
 - Re-caulk siding where it is missing or damaged
@@ -202,11 +203,8 @@
 - Install handtowel holder in upstairs gues bathroom
 - Install towel hooks in upstairs guest bathroom
 - Label fuse box
-- replace ac unit filter
 - Install new shower head in master bathroom, move old shower head to downstairs shower
 - Re-wire breakfast nook ceiling fan
 - Fix the back gate + rig it up to always close if left open
 - fix ceiling paint around the new ciling vents in office and dining room
 - install downstairs bathroom handtowel holder
-- install gfci in master bathroom
-- fix living room wall from ladder scraping the paint
