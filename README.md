@@ -189,6 +189,7 @@
 - Blinds
 - Footrail
 - Garage door opener
+- Fix Garage door storage that mounts to the wall by the garage door
 - Re-paint siding that has water damage
 - Re-caulk siding where it is missing or damaged
 - Caulk kitchen granite
@@ -197,13 +198,14 @@
 - Replace light switch and disposal switch in kitchen
 - Fix and paint island
 - Paint upstairs guest bathroom
+- Install handtowel holder in upstairs gues bathroom
+- Install towel hooks in upstairs guest bathroom
 - Label fuse box
-- replace ac unit filter?
-- Check on bathroom switch, ensure it is gfci
+- replace ac unit filter
 - Install new shower head in master bathroom, move old shower head to downstairs shower
 - Re-wire breakfast nook ceiling fan
 - Fix the back gate + rig it up to always close if left open
-- Talk to next door neighbors pulling back turf carpet and pulling up trex boards
 - fix ceiling paint around the new ciling vents in office and dining room
 - install downstairs bathroom handtowel holder
 - install gfci in master bathroom
+- fix living room wall from ladder scraping the paint
