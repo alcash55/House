@@ -180,17 +180,17 @@
 | Paint garage                                                                                                 | 2025     |          |
 | 2× garage door opener                                                                                        | 2025     |          |
 | Re-caulk/replace siding                                                                                      | 2025     |          |
-| Replace light switches (hallway)                                                                             | 2025     |          |
+| Replace light switches (downstairs hallway)                                                                  | 2025     |          |
 | Caulking driveway control joints                                                                             | 2025     |          |
 | Replace master bath shower head                                                                              | 2025     |          |
 | Add missing GFCI in upstairs guest bathroom                                                                  | 2025     |          |
 | Add missing GFCI in master bathroom                                                                          | 2025     |          |
+| Add footrail to bar                                                                                          | 2025     |          |
 
 ## House TODO
 
 - Replace blinds at top of stairs
 - Replace missing dowle rod for office blinds
-- Install footrail
 - Fix Garage door storage that mounts to the wall by the garage door
 - Re-paint siding that has water damage
 - Re-caulk siding where it is missing or damaged
