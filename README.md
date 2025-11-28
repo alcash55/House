@@ -190,21 +190,16 @@
 ## House TODO
 
 - Replace blinds at top of stairs
-- Replace missing dowle rod for office blinds
-- Fix Garage door storage that mounts to the wall by the garage door
 - Re-paint siding that has water damage
 - Re-caulk siding where it is missing or damaged
-- Caulk kitchen granite
-- Caulk and repaint front door
+- Repaint front door
 - Replace light switches in living room
 - Replace light switch and disposal switch in kitchen
 - Fix and paint island
 - Paint upstairs guest bathroom
-- Install handtowel holder in upstairs gues bathroom
+- Install handtowel holder in upstairs guest bathroom
 - Install towel hooks in upstairs guest bathroom
 - Label fuse box
-- Install new shower head in master bathroom, move old shower head to downstairs shower
 - Re-wire breakfast nook ceiling fan
 - Fix the back gate + rig it up to always close if left open
-- fix ceiling paint around the new ciling vents in office and dining room
-- install downstairs bathroom handtowel holder
+- fix ceiling paint in masterbed room
