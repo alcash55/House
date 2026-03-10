@@ -135,7 +135,6 @@
          <iframe src=".\pdfs\HOA.pdf" width="100%" height="600px" frameborder="0"></iframe>
       </div>
 1.  I noticed the downspout in the courtyard that is connected to the flower bed that is up against the whole under the AC unit was installed incorrectly where water from 1/3 of the house was gushing out of it and not only soakling the flower bed but stripping paint of the siding in that section only adding onto to more erosion in the hole. Matt noticed the current gutter guards that were installed by previous owners were allowing water to topple over it and not go down the drain during heavy rain.
-
     - 11/6/2025 - Matt fixed both of these issues by replacing all gutter guards and fixing the downspout to have the gutter properly connected to where water would not escape costing $600 for just the labor
       <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
          <figure style="width: 50%; text-align: center;">
@@ -156,21 +155,18 @@
 #### Getting quotes from foundation companies to diagnose issues we noticed
 
 1.  Called DFX
-
     - Determined there was structural failure, said the failure was on the right side of the house (point of view of looking at the front of my house from the street).
     - Did not run any tests to give concrete evidence of how he came to the conclusion there was issues
     - Recommended push piers along the whole side of my house and putting in a drain and a pump by my AC units to ensure we remove water as fast as possible from that area
-    
+
     <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
       <iframe src="./pdfs/foundation/dfx/Alex Cash_Updated DFX Agreement.pdf" width="100%" height="600px" frameborder="0"></iframe>
     </div>
 
 1.  10/28/2025 - Kermit B. Buck & Sons, INC.
-
     - Determined there was structural failure but was more focused on the hole under the AC unit. His main solution was seal the to spots under the deck where there is erosion. Then pump poly/flowable concrete into the hole until everything that was eroded was replaced and then monitor the first floor of the house for any issues getting worse than they already were
 
 1.  10/30/2025 - Redeemers Group
-
     - Determined there was structural failure from the front to the back of the house, by using a laser level on the side of the house
     - Gave 3 recommendations on fixes, but overall recommended installing piers on a corner for better support
       <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
@@ -182,6 +178,9 @@
 1.  11/3/2025 - Olshan to come out for quotes
     - Olshan was the best plan for structural support across the whole house. Including external and internal pillars to ensure the area of influence of each pillar fixed my current issues and did not leave any gaps or areas where there could be future issues. The Olshan recommended plan putting 20 external pillars and 14 internal pillars costs $43,235.00 (not including cost to repair holes inside and rollup neighbors turf carpet to drill). I worked with them to create a modified plan to cover all the areas that are of high to medium priority that would include 13 external pillars and 6 internal pillars which costs $24,375.00 (not including cost to repair holes inside and rollup neighbors turf carpet to drill).
     - When Olshan came the guy (Tim) off the start told me he had been to this house before. He was the one who came and gave the quote and did the work on the sidewalk area that the previous owners had done. He was able to pull up the exact photos from his ipad when quoting and having the work done. Mentioned that he wanted to inspect inside the house but the owner did not let him and made him only stay outside and work on the sidewalk.
+      <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+         <iframe src="./pdfs/foundation/olshan/past/946 River Landing Drive , 20251205_Customer Proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
+      </div>
     - When Tim was inspecting the inside of the house for cracks, issues with the doors/windows, etc. He noted that there were clear signs of covering up cracks with fresh painting (past owners replaced all windows, floors, and repainted right before selling the house)/new trim work.
     - Tim noted there was areas all throughout the first floor of the house where the grade was as bad as 3 inches below level
     - He also pointed out that there were spots in the house where there was evidence of foundational issues that had been covered up due to painting and putting in fresh molding/trim around the house
@@ -198,47 +197,57 @@
 
 ## House upgrades
 
-| **Upgrade**                                                                                                  | **Year** | **Cost** |
-| ------------------------------------------------------------------------------------------------------------ | -------- | -------- |
-| Kitchen sink/faucet                                                                                          | 2025     |          |
-| Kitchen handles                                                                                              | 2025     |          |
-| Kitchen overhead light                                                                                       | 2025     |          |
-| Overhead stairs light                                                                                        | 2025     |          |
-| Add box for loose wire in attic                                                                              | 2025     |          |
-| Outdoor flood light                                                                                          | 2025     |          |
-| Courtyard/deck outdoor lights                                                                                | 2025     |          |
-| Dining room overhead light                                                                                   | 2025     |          |
-| Gutter guards                                                                                                | 2025     |          |
-| Courtyard downspout                                                                                          | 2025     |          |
-| Deck/balcony (fix rot, new railing, upgrade to Trex, new ceiling fan)                                        | 2025     |          |
-| Ceiling fans (master, living room, deck)                                                                     | 2025     |          |
-| Downstairs bathroom (paint vanity, new quartz sink, paint walls, towel holder, TP holder, hand towel holder) | 2025     |          |
-| Water shut-offs (downstairs & guest bathrooms)                                                               | 2025     |          |
-| External pillings on the foundation                                                                          | 2025     |          |
-| Paint garage                                                                                                 | 2025     |          |
-| 2× garage door opener                                                                                        | 2025     |          |
-| Re-caulk/replace siding                                                                                      | 2025     |          |
-| Replace light switches (downstairs hallway)                                                                  | 2025     |          |
-| Caulking driveway control joints                                                                             | 2025     |          |
-| Replace master bath shower head                                                                              | 2025     |          |
-| Add missing GFCI in upstairs guest bathroom                                                                  | 2025     |          |
-| Add missing GFCI in master bathroom                                                                          | 2025     |          |
-| Add footrail to bar                                                                                          | 2025     |          |
-| Re-caulk entire kitchen backsplash                                                                           | 2025     |          |
+| **Upgrade**                                                                                                      | **Year** | **Cost** |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| Kitchen sink/faucet                                                                                              | 2025     |          |
+| Kitchen handles                                                                                                  | 2025     |          |
+| Kitchen overhead light                                                                                           | 2025     |          |
+| Overhead stairs light                                                                                            | 2025     |          |
+| Add box for loose wire in attic                                                                                  | 2025     |          |
+| Outdoor flood light                                                                                              | 2025     |          |
+| Replace courtyard/deck outdoor lights                                                                            | 2025     |          |
+| Dining room overhead light                                                                                       | 2025     |          |
+| Gutter guards                                                                                                    | 2025     |          |
+| Courtyard downspout                                                                                              | 2025     |          |
+| Deck/balcony (fix rot, new railing, upgrade to Trex, new ceiling fan)                                            | 2025     |          |
+| Ceiling fans (master, living room, deck)                                                                         | 2025     |          |
+| Downstairs bathroom (paint vanity, new quartz sink, paint walls, towel holder, TP holder, hand towel holder)     | 2025     |          |
+| Water shut-offs (downstairs & guest bathrooms)                                                                   | 2025     |          |
+| External pillings on the foundation                                                                              | 2025     |          |
+| Paint garage                                                                                                     | 2025     |          |
+| 2× garage door opener                                                                                            | 2025     |          |
+| Re-caulk/replace siding                                                                                          | 2025     |          |
+| Replace light switches (downstairs hallway)                                                                      | 2025     |          |
+| Caulking driveway control joints                                                                                 | 2025     |          |
+| Replace master bath shower head                                                                                  | 2025     |          |
+| Add missing GFCI in upstairs guest bathroom                                                                      | 2025     |          |
+| Add missing GFCI in master bathroom                                                                              | 2025     |          |
+| Add footrail to bar                                                                                              | 2025     |          |
+| Re-caulk entire kitchen backsplash                                                                               | 2025     |          |
+| Caulk granite countertop slab on the right of oven (was never caulked and if weight was applied it would pop up) | 2025     |          |
+| Label fize box                                                                                                   | 2025     |          |
+| Fix chimney flashing                                                                                             | 2025     |          |
+| Replace gutter on the back deck                                                                                  | 2025     |          |
+| Fix/replace rotted wood that holds up the back gate                                                              | 2025     |          |
+| Replace kitchen, dining room, stairway, and upstairs hallway switches and faceplates                             | 2026     |          |
+| Replace all door hinges to be consistent color, shape, and size                                                  | 2026     |          |
+| Replace ceiling fan in office                                                                                    | 2026     |          |
+| Fix/fill hole with insilation that was left open under generator hookup in office closet                         | 2026     |          |
 
 ## House TODO
 
 - Replace blinds at top of stairs
 <!-- - Re-paint siding that has water damage
 - Re-caulk siding where it is missing or damaged -->
-- Repaint front door
-- Replace light switches in living room
+- Touchup paint on front door
+- Replace light switches in living room, kitchen, dining room, stairs, and upstairs
 - Replace light switch and disposal switch in kitchen
-- Fix and paint island
+- Fix and paint island/kitchen
 - Paint upstairs guest bathroom
 - Install handtowel holder in upstairs guest bathroom
 - Install towel hooks in upstairs guest bathroom
-- Label fuse box
+<!-- - Label fuse box -->
 - Re-wire breakfast nook ceiling fan
-- Fix the back gate + rig it up to always close if left open
-- fix ceiling paint in masterbed room
+- Rig the back gate up to always close if left open
+- Fix ceiling paint in masterbed room
+- Fix dryer lint connection to the wall
