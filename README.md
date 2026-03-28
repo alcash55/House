@@ -2,6 +2,24 @@
 
 ## Deck timeline
 
+## Claim
+
+The prior owners had knowledge of structural and foundational defects in the property. Evidence indicates they attempted minimal temporary repairs intended to conceal these defects rather than properly address them. Despite this knowledge, the prior owners failed to disclose the existence of these structural or foundational issues prior to the sale of the property.
+
+### Disclosures
+
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+      <iframe src="C:\Users\Alex\deck\pdfs\disclosures\River Landing - PCD.pdf" width="100%" height="600px" frameborder="0"></iframe>
+      <figcaption>
+         Note: In section A, possible incorrect line items for:
+            - Gas starter for fireplace
+            - Whirlpool tub 
+      </figcaption>
+
+      <iframe src="./pdfs/disclosures/River Landing - disclosure .pdf" width="100%" height="600px" frameborder="0"></iframe>
+
+   </div>
+
 ### All of these issues were not disclosed by previous owners
 
 1.  8/24/2025 - Noticed main overhang from support post to support joist was sagging, and deck overhang had damages that needed fixing
@@ -147,7 +165,7 @@
          <figure style="width: 50%; text-align: center;">
             <img src="./images/fixedDownSpout.jpg" style="width: 100%; height: auto;"/>
             <figcaption>
-            Fix downspout: Contractor Matt fixed the downspout,
+               Contractor Matt fixed the downspout
             </figcaption>
          </figure>
       </div>
@@ -170,7 +188,7 @@
     - Determined there was structural failure from the front to the back of the house, by using a laser level on the side of the house
     - Gave 3 recommendations on fixes, but overall recommended installing piers on a corner for better support
       <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-            <iframe src="./pdfs/foundation/redemers\Cash Redeemers Group, Inc. Proposal (Project 1, 10_30_25 1_09 pm).pdf" width="100%" height="600px" frameborder="0"></iframe>
+            <iframe src="./pdfs/foundation/redemers/Cash Redeemers Group, Inc. Proposal (Project 1, 10_30_25 1_09 pm).pdf" width="100%" height="600px" frameborder="0"></iframe>
             <iframe src="./pdfs/foundation/redemers/Cash Redeemers Group, Inc. Proposal (Project 2, 10_30_25 1_09 pm).pdf" width="100%" height="600px" frameborder="0"></iframe>
             <iframe src="./pdfs/foundation/redemers/Cash Redeemers Group, Inc. Proposal (Project 3, 10_30_25 1_09 pm).pdf" width="100%" height="600px" frameborder="0"></iframe>
       </div>
@@ -187,13 +205,21 @@
 
 #### Getting quotes from hardwood flooring companies
 
-- Artisant flooring - They no longer do hardwood floors and recommended a few other companies
+- Artisant flooring
+  - They no longer do hardwood floors (although was the recommendation from Olshan)
 - Germantown Hardwood Floors
+   <iframe src="./pdfs/flooring/germantownhardwoodfloorsinc.pdf" width="100%" height="600px" frameborder="0"></iframe>
 - 11/25/2025 Mid South Flooring
-- Kings flooring
+    <iframe src="./pdfs/flooring/Mid_South_Flooring_LLC.pdf" width="100%" height="600px" frameborder="0"></iframe>
+- Kings flooring (Never got back to me)
+- Erick's flooring
+    <iframe src="./pdfs/flooring/Ericks Flooring estimate 467.pdf" width="100%" height="600px" frameborder="0"></iframe>
+- Old World Floors (Recommended from Arisant employee who I spoke to. Mentioned she has a friend use them)
 
-1. 12/9/2025 Olshan came out to the house and installed external pillings
-1. 12/10/2025 Olshan came out and filled in the hole under my AC unit and Put concrete over the mulch bed that leads up to the AC unit
+#### Foundation work we have completed
+
+1. 12/9/2025 - Olshan installed external pillings
+1. 12/10/2025 - Olshan filled in the hole under my AC unit and Put concrete over the mulch bed that leads up to the AC unit to prevent further washout and erosion
 
 ## House upgrades
 
@@ -225,29 +251,26 @@
 | Add footrail to bar                                                                                              | 2025     |          |
 | Re-caulk entire kitchen backsplash                                                                               | 2025     |          |
 | Caulk granite countertop slab on the right of oven (was never caulked and if weight was applied it would pop up) | 2025     |          |
-| Label fize box                                                                                                   | 2025     |          |
+| Label fuze box                                                                                                   | 2025     |          |
 | Fix chimney flashing                                                                                             | 2025     |          |
 | Replace gutter on the back deck                                                                                  | 2025     |          |
 | Fix/replace rotted wood that holds up the back gate                                                              | 2025     |          |
+| Fix dryer lint connection to the wall (was never connected to exaust and lint was going into the wall)           | 2025     |          |
 | Replace kitchen, dining room, stairway, and upstairs hallway switches and faceplates                             | 2026     |          |
 | Replace all door hinges to be consistent color, shape, and size                                                  | 2026     |          |
 | Replace ceiling fan in office                                                                                    | 2026     |          |
-| Fix/fill hole with insilation that was left open under generator hookup in office closet                         | 2026     |          |
+| Replace ceiling fan in breakfast nook                                                                            | 2026     |          |
+| Fix/fill hole with insulation that was left open under generator hookup in office closet                         | 2026     |          |
 
 ## House TODO
 
 - Replace blinds at top of stairs
-<!-- - Re-paint siding that has water damage
-- Re-caulk siding where it is missing or damaged -->
 - Touchup paint on front door
-- Replace light switches in living room, kitchen, dining room, stairs, and upstairs
+- Replace light switches in living room, and upstairs
 - Replace light switch and disposal switch in kitchen
 - Fix and paint island/kitchen
 - Paint upstairs guest bathroom
 - Install handtowel holder in upstairs guest bathroom
 - Install towel hooks in upstairs guest bathroom
-<!-- - Label fuse box -->
-- Re-wire breakfast nook ceiling fan
 - Rig the back gate up to always close if left open
 - Fix ceiling paint in masterbed room
-- Fix dryer lint connection to the wall
