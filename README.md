@@ -1,4 +1,4 @@
-# House stuff
+# [House stuff](https://alcash55.github.io/House/)
 
 ## Deck timeline
 
@@ -9,7 +9,7 @@ The prior owners had knowledge of structural and foundational defects in the pro
 ### Disclosures
 
    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-      <iframe src="C:\Users\Alex\deck\pdfs\disclosures\River Landing - PCD.pdf" width="100%" height="600px" frameborder="0"></iframe>
+      <iframe src="./pdfs/disclosures/River Landing - PCD.pdf" width="100%" height="600px" frameborder="0"></iframe>
       <figcaption>
          Note: In section A, possible incorrect line items for:
             - Gas starter for fireplace
