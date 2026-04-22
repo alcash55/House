@@ -172,7 +172,7 @@ The prior owners had knowledge of structural and foundational defects in the pro
 
 #### Getting quotes from foundation companies to diagnose issues we noticed
 
-1.  Called DFX
+1.  10/23/2025 - Called DFX
     - Determined there was structural failure, said the failure was on the right side of the house (point of view of looking at the front of my house from the street).
     - Did not run any tests to give concrete evidence of how he came to the conclusion there was issues
     - Recommended push piers along the whole side of my house and putting in a drain and a pump by my AC units to ensure we remove water as fast as possible from that area
@@ -220,6 +220,23 @@ The prior owners had knowledge of structural and foundational defects in the pro
 
 1. 12/9/2025 - Olshan installed external pillings
 1. 12/10/2025 - Olshan filled in the hole under my AC unit and Put concrete over the mulch bed that leads up to the AC unit to prevent further washout and erosion
+
+#### [Attornies Called](https://www.memphisbar.org/?pg=FindaLawyer&dirAction=SearchResults&mg_gid=275434&seed=404851)
+
+Type of attornies we are looking for are real estate litigators specializing in disclosure fraud, property misrepresentation, and nondisclosure
+
+- [Crislip Philip](https://www.crislipphilip.com/real-estate/) 901-450-3299
+  - Called left a message
+- [The Stiles Law Firm](https://www.thestileslawfirm.com/)
+  - Does not cover this practice area
+- [Morgan Pettigrew](https://www.thepettigrewfirm.com/) 901 454 9930
+  - Website under construction
+  - Called left a message
+- [Snider and Horner](https://www.kevinsnider.com/) 901 751 3777
+  - Referal from [Murphy DeZonia & Webb](https://mdwlaw.com/) who did our home closing
+  - Consult fee $400
+- [Gold Law Firm](https://www.dgoldlaw.com/real-estate-attorney-memphis/)
+  - Only does car accidents and home closings
 
 ## House upgrades
 
