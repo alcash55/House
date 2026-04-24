@@ -232,17 +232,29 @@ Type of attornies we are looking for are real estate litigators specializing in 
 - [Morgan Pettigrew](https://www.thepettigrewfirm.com/) 901 454 9930
   - Website under construction
   - Called left a message
+  - Followed up from voicemail
+    - Consultation fee is billed at the hourly rate. Rate is $375 per hour
+    - Gave email should get intro info back
 - [Snider and Horner](https://www.kevinsnider.com/) 901 751 3777
   - Referal from [Murphy DeZonia & Webb](https://mdwlaw.com/) who did our home closing
   - Consult fee $400
 - [Gold Law Firm](https://www.dgoldlaw.com/real-estate-attorney-memphis/)
   - Only does car accidents and home closings
 - [Richard Myers](https://glankler.com/attorneys/richard-j-myers/) 901-576-1727
-   - Talked to him, confirmed we have a case
-   - Referd looking into [Porter Field with Birch Porter](https://www.bpjlaw.com/practice-area/real-estate-law/)
-   - Has a $2500 retainer which equates to 8-9 hours
-
- 
+  - Talked to him, confirmed we have a case
+  - Referd looking into [Porter Field with Birch Porter](https://www.bpjlaw.com/practice-area/real-estate-law/)
+  - Has a $2500 retainer which equates to 8-9 hours
+- [Burch Porter Johnson](https://www.bpjlaw.com/)
+  - Talked to receptionist and was forwarded to attorny's voicemail
+- [The Winchester Law Firm](https://thewinchesterlawfirm.com/) (901) 754-9994
+  - The Winchester Law Firm has attorneys with extensive experience in real estate-related matters, including litigation of real estate and construction disputes, and one of their members — Richard E. Charlton III — specifically lists Investment Fraud and Real Estate Litigation among his practice areas.
+  - Recptionist -> voicemail
+- [Glassman, Wyatt, Tuttle & Cox, P.C.](gwtclaw.com) (901) 527-4673
+  - Their real estate litigation attorneys handle disputes relating to brokers, agents, and their fiduciary and common law disclosure obligations, as well as alleged breaches in civil actions. Gwtclaw One of their attorneys has been named Lawyer of the Year for Real Estate Litigation in the Best Lawyers in America rankings. Gwtclaw
+  - Recptionist -> pass along info should hear back Monday
+- [Mitchell Law Firm (Jed Mitchell)](jmitchlaw.com) (901) 268-6740
+  - Mitchell Law Firm's consumer protection practice pursues claims for misrepresentation, hidden-fee schemes, and deceptive trade practices, enforcing the Tennessee Consumer Protection Act against businesses. Jmitchlaw This could be a strong angle if your disclosure fraud claim involves willful concealment.
+  - voicemail
 
 ## House upgrades
 
