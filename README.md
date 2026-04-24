@@ -240,6 +240,8 @@ Type of attornies we are looking for are real estate litigators specializing in 
   - Consult fee $400
 - [Gold Law Firm](https://www.dgoldlaw.com/real-estate-attorney-memphis/)
   - Only does car accidents and home closings
+- [Harris|Shelton](https://harrisshelton.com/) 901-525-1455
+  - Talked to receptionist -> told to submit intake form -> waiting to hear back from form
 - [Richard Myers](https://glankler.com/attorneys/richard-j-myers/) 901-576-1727
   - Talked to him, confirmed we have a case
   - Referd looking into [Porter Field with Birch Porter](https://www.bpjlaw.com/practice-area/real-estate-law/)
