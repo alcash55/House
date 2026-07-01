@@ -11,6 +11,7 @@ The prior owners had knowledge of structural and foundational defects in the pro
 Prior to purchasing 946 River Landing Drive, Alex and Erika were tenants at **138 Harbor Village Dr., Apt #201, Memphis, TN 38103** (Arbors Harbor Town, managed by Fogelman Properties). The purchase of the home — which concealed undisclosed structural and foundation defects — required breaking that lease early, resulting in direct financial damages.
 
 **Arbors Harbor Town contacts:**
+
 - Shelby Douglas — Business Manager | shelby@arborsharbortown.com | 901-526-0322
 - Chris Hawkins — Leasing Consultant | chris@arborsharbortown.com
 
@@ -45,13 +46,13 @@ Prior to purchasing 946 River Landing Drive, Alex and Erika were tenants at **13
 
 ### Financial Impact of Lease Break
 
-| Item | Amount |
-|------|--------|
-| Payment 8/2/2025 (final rent/fees) | $2,174.50 |
-| Final utility bill paid 9/24/2025 | $4,182.34 |
-| **Total paid to break lease** | **$6,356.84** |
+| Item                               | Amount        |
+| ---------------------------------- | ------------- |
+| Payment 8/2/2025 (final rent/fees) | $2,174.50     |
+| Final utility bill paid 9/24/2025  | $4,182.34     |
+| **Total paid to break lease**      | **$6,356.84** |
 
-*Note: Security deposit refund status unknown — Arbors Harbor Town stated it would be processed after the final utility bill was paid.*
+_Note: Security deposit refund status unknown — Arbors Harbor Town stated it would be processed after the final utility bill was paid._
 
 ## Previous Owners
 
@@ -313,26 +314,26 @@ Prior to purchasing 946 River Landing Drive, Alex and Erika were tenants at **13
 1. 5/25/2026 - Paid Ozer Engineering $550 (Invoice #3129) for foundation assessment; site visit conducted 5/26/2026
 1. 6/3/2026 - Ozer (Gerardo Mendez) requested copies of all previous settlement reports to compare with site visit findings. Sent them both Olshan proposals (11/3/2025 original and 4/21/2026 updated)
 1. 6/10/2026 - Ozer asked to clarify which push piers had been installed and their installation dates
-    - Clarified that Olshan installed **pilings, NOT push piers**
-    - All exterior perimeter work in the "MODIFIED REPAIR PLAN" was completed December 8–10, 2025
-    - The only change in the updated plan vs. original was one extra piling added to the bottom right section
+   - Clarified that Olshan installed **pilings, NOT push piers**
+   - All exterior perimeter work in the "MODIFIED REPAIR PLAN" was completed December 8–10, 2025
+   - The only change in the updated plan vs. original was one extra piling added to the bottom right section
 1. 6/19/2026 - Ozer delivered completed initial foundation report
    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
       <iframe src="./pdfs/ozer/946 River Landing DR report (initial).pdf" width="100%" height="600px" frameborder="0"></iframe>
    </div>
 1. 6/22/2026 - Ozer raised several concerns in their follow-up email:
-    - Were not aware of a potential legal dispute; stated they would have priced the assessment differently or turned it away had they known
-    - Stated the house does not appear to have experienced significant movement during my ownership
-    - Stated that settlement alone does not constitute a foundation failure
-    - Stated conditions observed during inspection did not indicate a structural safety concern
+   - Were not aware of a potential legal dispute; stated they would have priced the assessment differently or turned it away had they known
+   - Stated the house does not appear to have experienced significant movement during my ownership
+   - Stated that settlement alone does not constitute a foundation failure
+   - Stated conditions observed during inspection did not indicate a structural safety concern
 1. 6/23/2026 - Responded formally to Ozer pushing back and requesting a revised report:
-    - Clarified Olshan's two separate periods of work on this property: December 2021 (sidewalk repair for prior owners only) and December 9–10, 2025 (foundation work I commissioned)
-    - Clarified the potential legal dispute is against the **prior owners for non-disclosure**, not against any contractor or engineering firm
-    - Called out that the initial report used vague language ("if you decide to address the cosmetic or functional concerns") with no consequences defined and no clear classification of conditions
-    - Noted that employees on site 5/26 explicitly promised strong recommendations and clear next steps which were not reflected in the report
-    - Asked specifically: Is there a foundation failure (yes or no)? Where are the most critical problem areas? What causes the differential settlement in the rear? What are the consequences of not acting?
-    - Asked why Ozer's elevation measurements do not match Olshan's measurements
-    - Formally requested a new or updated report addressing all these points
+   - Clarified Olshan's two separate periods of work on this property: December 2021 (sidewalk repair for prior owners only) and December 9–10, 2025 (foundation work I commissioned)
+   - Clarified the potential legal dispute is against the **prior owners for non-disclosure**, not against any contractor or engineering firm
+   - Called out that the initial report used vague language ("if you decide to address the cosmetic or functional concerns") with no consequences defined and no clear classification of conditions
+   - Noted that employees on site 5/26 explicitly promised strong recommendations and clear next steps which were not reflected in the report
+   - Asked specifically: Is there a foundation failure (yes or no)? Where are the most critical problem areas? What causes the differential settlement in the rear? What are the consequences of not acting?
+   - Asked why Ozer's elevation measurements do not match Olshan's measurements
+   - Formally requested a new or updated report addressing all these points
 1. 6/26/2026 - Ozer acknowledged feedback and agreed to revise and update the report; promised delivery the following week
 1. 6/30/2026 - Ozer delivered updated foundation report. Explained elevation measurement discrepancy: Ozer set one location as **0.0 inches** as their benchmark and measured all other elevations relative to that point; Olshan used a different reference point, which is why the numerical values differ even though the overall floor profile and settlement areas are similar
    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
