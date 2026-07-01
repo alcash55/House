@@ -8,6 +8,48 @@ The prior owners had knowledge of structural and foundational defects in the pro
 
 ## Apartment
 
+Prior to purchasing 946 River Landing Drive, Alex Cash and Erika Wilt were tenants at **138 Harbor Village Dr., Apt #201, Memphis, TN 38103** (Arbors Harbor Town, managed by Fogelman Properties). The purchase of the home — which concealed undisclosed structural and foundation defects — required breaking that lease early, resulting in direct financial damages.
+
+**Arbors Harbor Town contacts:**
+- Shelby Douglas — Business Manager | shelby@arborsharbortown.com | 901-526-0322
+- Chris Hawkins — Leasing Consultant | chris@arborsharbortown.com
+
+### Lease Break Timeline
+
+- **7/25/2025** — Alex called Shelby Douglas to give official notice of lease break due to being under contract on 946 River Landing Drive. Followed up by email confirming the notice and raising pre-existing maintenance requests in the portal (requesting they not be counted against us). Email from alex.e.cash28@gmail.com to shelby@arborsharbortown.com, cc'd erikawilt3@gmail.com.
+
+- **7/25/2025** — Follow-up email confirming unit address: 138 Harbor Village Dr. Apt #201.
+
+- **7/25/2025** — Shelby acknowledged receipt; confirmed Chris Hawkins would send Notice to Vacate (NTV) paperwork with applicable fees.
+
+- **7/29/2025** — Shelby forwarded request internally to send NTV forms.
+
+- **7/30/2025** — Chris Hawkins sent NTV documents via email with two PDF attachments:
+  - `Office Copy NTV Wilt, Cash.pdf` — to be signed and returned
+  - `Verification of Notice to Vacate Wilt, Cash.pdf` — tenant copy for records
+  - **Gmail link to download:** [https://mail.google.com/mail/u/0/#inbox/1985cd2e44002478](https://mail.google.com/mail/u/0/#inbox/1985cd2e44002478)
+
+- **7/31/2025** — Alex returned signed NTV (`Office Copy NTV Wilt, Cash SIgned.pdf`) to Shelby.
+  - **Gmail link to download signed NTV:** [https://mail.google.com/mail/u/0/#inbox/198437a55db731e6](https://mail.google.com/mail/u/0/#inbox/198437a55db731e6)
+
+- **7/31/2025** — Shelby confirmed receipt of signed NTV.
+
+- **8/2/2025** — Payment of **$2,174.50** made via RentCafe (Confirmation #285468) — Checking XXXX-1425.
+
+- **9/24/2025** — Abby from Arbors Harbor Town notified that final utility bill was posted; balance owed: **$4,182.34**. Stated security deposit refund would be submitted once paid.
+
+- **9/24/2025** — Payment of **$4,182.34** made via RentCafe (Confirmation #298161) — TOTAL CHECKING Chk *****1425.
+
+### Financial Impact of Lease Break
+
+| Item | Amount |
+|------|--------|
+| Payment 8/2/2025 (final rent/fees) | $2,174.50 |
+| Final utility bill paid 9/24/2025 | $4,182.34 |
+| **Total paid to break lease** | **$6,356.84** |
+
+*Note: Security deposit refund status unknown — Arbors Harbor Town stated it would be processed after the final utility bill was paid.*
+
 ## Previous Owners
 
 [![](./images/linkedinCherish.png)](https://www.linkedin.com/in/cherishsamuels/)
