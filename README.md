@@ -6,6 +6,18 @@
 
 The prior owners had knowledge of structural and foundational defects in the property. Evidence indicates they attempted minimal temporary repairs intended to conceal these defects rather than properly address them. Despite this knowledge, the prior owners failed to disclose the existence of these structural or foundational issues prior to the sale of the property.
 
+## Apartment
+
+## Previous Owners
+
+[![](./images/linkedinCherish.png)](https://www.linkedin.com/in/cherishsamuels/)
+
+- Principal Global Engineering Manager, GREF Workplace Design & Construction @ Amazon
+
+[![](./images/linkedinRory.png)](https://www.linkedin.com/in/rorydubose/)
+
+- Operating Advisor | Multi-Site Service Buinesses
+
 ### Disclosures
 
    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
@@ -51,23 +63,6 @@ The prior owners had knowledge of structural and foundational defects in the pro
        <img src="./images/gusset.jpg" style="width: 50%; height: 50%;">
        <figcaption>Note: where the brown gaps are shown, goes across each beam where the flooring should be connected to the beam but is not due to rotting and sagging</figcaption>
     </div>
-1.  9/18/2025 - Rotting where the support beam on the balcony meets the roof
-    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-       <figure style="width: 50%; text-align: center;">
-          <img src="./images/rottingCeiling.jpg" style="width: 100%; height: auto;" />
-          <figcaption>Initial Findings (After pulling out just a piece of the rotting)</figcaption>
-       </figure>
-
-       <figure style="width: 50%; text-align: center;">
-          <img src="./images/rottingCeilingBeforeJack.jpg" style="width: 100%; height: auto;" />
-          <figcaption></figcaption>
-       </figure>
-
-       <figure style="width: 50%; text-align: center;">
-          <img src="./images/rottingCeilingTempFix.jpg" style="width: 100%; height: auto;" />
-          <figcaption></figcaption>
-       </figure>
-    </div>
 
 1.  9/8/2025 - Floating deck foundational support beams. The support beam was not dig out deep enough to where over time the erosion removed enough sand/dirt to where the beam was no longer touching the ground
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
@@ -78,6 +73,33 @@ The prior owners had knowledge of structural and foundational defects in the pro
       </figcaption>
    </figure>
 </div>
+
+1.  9/15/2025 - Had Dmitry Ozeryansky from [Ozer Structural Engineering](https://www.ozer-eng.com/) come to the house to give a quote on how to support the balcony since there was more rotted wood that was found where the vertical support meets the underside of the roof and to give any other insight of areas that need to follow code
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+   <figure style="width: 50%; text-align: center;">
+      <img src="./images/rottingCeiling.jpg" style="width: 100%; height: auto;"/>
+   </figure>
+</div>
+
+1.  9/17/2025 - Dmitry followed up via email after the site visit with a video of his assessment and recommendations. Key items covered:
+    - Adequate support of the roof and both levels of deck
+    - Protecting deck framing from rot and deterioration due to trapped water
+    - Replacement of non-pressure treated wood
+    - Adequate support for handrail bases to provide capacity for 200 lb load outward at the top of the handrail
+    - Protecting the walls of the house from moisture intrusion resulting from the deck connections
+
+1.  9/18/2025 - Rotting where the support beam on the balcony meets the roof
+    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+       <figure style="width: 50%; text-align: center;">
+          <img src="./images/rottingCeilingBeforeJack.jpg" style="width: 100%; height: auto;" />
+          <figcaption></figcaption>
+       </figure>
+
+       <figure style="width: 50%; text-align: center;">
+          <img src="./images/rottingCeilingTempFix.jpg" style="width: 100%; height: auto;" />
+          <figcaption></figcaption>
+       </figure>
+    </div>
 
 1.  10/3/2025 - Had conversations with next door neighbors about how the previous owners "knew they needed to get to working on the deck" and "really want to get to the deck"
 1.  Rotting on the beams in landing
@@ -197,11 +219,22 @@ The prior owners had knowledge of structural and foundational defects in the pro
     - Olshan was the best plan for structural support across the whole house. Including external and internal pillars to ensure the area of influence of each pillar fixed my current issues and did not leave any gaps or areas where there could be future issues. The Olshan recommended plan putting 20 external pillars and 14 internal pillars costs $43,235.00 (not including cost to repair holes inside and rollup neighbors turf carpet to drill). I worked with them to create a modified plan to cover all the areas that are of high to medium priority that would include 13 external pillars and 6 internal pillars which costs $24,375.00 (not including cost to repair holes inside and rollup neighbors turf carpet to drill).
     - When Olshan came the guy (Tim) off the start told me he had been to this house before. He was the one who came and gave the quote and did the work on the sidewalk area that the previous owners had done. He was able to pull up the exact photos from his ipad when quoting and having the work done. Mentioned that he wanted to inspect inside the house but the owner did not let him and made him only stay outside and work on the sidewalk.
       <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-         <iframe src="./pdfs/foundation/olshan/past/946 River Landing Drive , 20251205_Customer Proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
+         <iframe src="./pdfs/foundation/olshan/Alex Cash, 946 River Landing Drive, 20251103_Customer Proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
       </div>
     - When Tim was inspecting the inside of the house for cracks, issues with the doors/windows, etc. He noted that there were clear signs of covering up cracks with fresh painting (past owners replaced all windows, floors, and repainted right before selling the house)/new trim work.
     - Tim noted there was areas all throughout the first floor of the house where the grade was as bad as 3 inches below level
     - He also pointed out that there were spots in the house where there was evidence of foundational issues that had been covered up due to painting and putting in fresh molding/trim around the house
+    - 12/5/2025 - Tim Hughes (thughes@olshanfoundation.com) sent "Exterior only" proposal — a separate proposal scoped to exterior perimeter work only
+      <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+         <iframe src="./pdfs/foundation/olshan/Alex Cash, 946 River Landing Drive, 20251205_Customer Proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
+      </div>
+    - 12/5/2025 - Tim Hughes also sent the prior owners' Olshan work documentation (quote given 11/19/2021, work done 12/2021)
+      <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+         <iframe src="./pdfs/foundation/olshan/past/946 River Landing Drive , 20251205_Customer Proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
+         <figcaption>
+            The quote was given November 19th 2021 and the work was done in December of 2021
+         </figcaption>
+      </div>
 
 #### Getting quotes from hardwood flooring companies
 
@@ -220,6 +253,46 @@ The prior owners had knowledge of structural and foundational defects in the pro
 
 1. 12/9/2025 - Olshan installed external pillings
 1. 12/10/2025 - Olshan filled in the hole under my AC unit and Put concrete over the mulch bed that leads up to the AC unit to prevent further washout and erosion
+1. 2/11/2026 - Received Olshan warranty documents from Gia Fox (Admin, Olshan Foundation Repair and Waterproofing)
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+      <iframe src="./pdfs/foundation/olshan/warranty/946 river landing dr.pdf" width="100%" height="600px" frameborder="0"></iframe>
+   </div>
+1. 3/20/2026 - Olshan return visit at 3:00 PM (appointment set by care@olshanfoundation.com)
+1. 4/21/2026 - Tim Hughes (Certified Structural Technician / Polyurethane Specialist) sent updated estimate
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+      <iframe src="./pdfs/foundation/olshan/Alex Cash, 946 River Landing Drive, 20260421_Customer Proposal.pdf" width="100%" height="600px" frameborder="0"></iframe>
+   </div>
+
+#### Ozer Structural Engineering Foundation Assessment
+
+1. 5/25/2026 - Paid Ozer Engineering $550 (Invoice #3129) for foundation assessment; site visit conducted 5/26/2026
+1. 6/3/2026 - Ozer (Gerardo Mendez) requested copies of all previous settlement reports to compare with site visit findings. Sent them both Olshan proposals (11/3/2025 original and 4/21/2026 updated)
+1. 6/10/2026 - Ozer asked to clarify which push piers had been installed and their installation dates
+    - Clarified that Olshan installed **pilings, NOT push piers**
+    - All exterior perimeter work in the "MODIFIED REPAIR PLAN" was completed December 8–10, 2025
+    - The only change in the updated plan vs. original was one extra piling added to the bottom right section
+1. 6/19/2026 - Ozer delivered completed initial foundation report
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+      <iframe src="./pdfs/ozer/946 River Landing DR report (initial).pdf" width="100%" height="600px" frameborder="0"></iframe>
+   </div>
+1. 6/22/2026 - Ozer raised several concerns in their follow-up email:
+    - Were not aware of a potential legal dispute; stated they would have priced the assessment differently or turned it away had they known
+    - Stated the house does not appear to have experienced significant movement during my ownership
+    - Stated that settlement alone does not constitute a foundation failure
+    - Stated conditions observed during inspection did not indicate a structural safety concern
+1. 6/23/2026 - Responded formally to Ozer pushing back and requesting a revised report:
+    - Clarified Olshan's two separate periods of work on this property: December 2021 (sidewalk repair for prior owners only) and December 9–10, 2025 (foundation work I commissioned)
+    - Clarified the potential legal dispute is against the **prior owners for non-disclosure**, not against any contractor or engineering firm
+    - Called out that the initial report used vague language ("if you decide to address the cosmetic or functional concerns") with no consequences defined and no clear classification of conditions
+    - Noted that employees on site 5/26 explicitly promised strong recommendations and clear next steps which were not reflected in the report
+    - Asked specifically: Is there a foundation failure (yes or no)? Where are the most critical problem areas? What causes the differential settlement in the rear? What are the consequences of not acting?
+    - Asked why Ozer's elevation measurements do not match Olshan's measurements
+    - Formally requested a new or updated report addressing all these points
+1. 6/26/2026 - Ozer acknowledged feedback and agreed to revise and update the report; promised delivery the following week
+1. 6/30/2026 - Ozer delivered updated foundation report. Explained elevation measurement discrepancy: Ozer set one location as **0.0 inches** as their benchmark and measured all other elevations relative to that point; Olshan used a different reference point, which is why the numerical values differ even though the overall floor profile and settlement areas are similar
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+      <iframe src="./pdfs/ozer/946 River Landing DR report (updated).pdf" width="100%" height="600px" frameborder="0"></iframe>
+   </div>
 
 #### [Attornies Called](https://www.memphisbar.org/?pg=FindaLawyer&dirAction=SearchResults&mg_gid=275434&seed=404851)
 
@@ -240,22 +313,27 @@ Type of attornies we are looking for are real estate litigators specializing in 
   - Consult fee $400
 - [Gold Law Firm](https://www.dgoldlaw.com/real-estate-attorney-memphis/)
   - Only does car accidents and home closings
-- [Harris|Shelton](https://harrisshelton.com/) 901-525-1455
+- [Harris Shelton](https://harrisshelton.com/) 901-525-1455
   - Talked to receptionist -> told to submit intake form -> waiting to hear back from form
 - [Richard Myers](https://glankler.com/attorneys/richard-j-myers/) 901-576-1727
   - Talked to him, confirmed we have a case
   - Referd looking into [Porter Field with Birch Porter](https://www.bpjlaw.com/practice-area/real-estate-law/)
   - Has a $2500 retainer which equates to 8-9 hours
-- [Burch Porter Johnson](https://www.bpjlaw.com/)
+  - $375/hour
+- [Burch Porter Johnson](https://www.bpjlaw.com/) 901 524 5000
   - Talked to receptionist and was forwarded to attorny's voicemail
+  - receptionist -> Jackie Grecko -> voicemail
 - [The Winchester Law Firm](https://thewinchesterlawfirm.com/) (901) 754-9994
   - The Winchester Law Firm has attorneys with extensive experience in real estate-related matters, including litigation of real estate and construction disputes, and one of their members — Richard E. Charlton III — specifically lists Investment Fraud and Real Estate Litigation among his practice areas.
-  - Recptionist -> voicemail
+  - receptionist -> voicemail
+  - receptionist -> voicemail
 - [Glassman, Wyatt, Tuttle & Cox, P.C.](gwtclaw.com) (901) 527-4673
   - Their real estate litigation attorneys handle disputes relating to brokers, agents, and their fiduciary and common law disclosure obligations, as well as alleged breaches in civil actions. Gwtclaw One of their attorneys has been named Lawyer of the Year for Real Estate Litigation in the Best Lawyers in America rankings. Gwtclaw
-  - Recptionist -> pass along info should hear back Monday
+  - receptionist -> pass along info should hear back Monday
+  - receptionist -> Sharron Mitchel voicemail
 - [Mitchell Law Firm (Jed Mitchell)](jmitchlaw.com) (901) 268-6740
   - Mitchell Law Firm's consumer protection practice pursues claims for misrepresentation, hidden-fee schemes, and deceptive trade practices, enforcing the Tennessee Consumer Protection Act against businesses. Jmitchlaw This could be a strong angle if your disclosure fraud claim involves willful concealment.
+  - voicemail
   - voicemail
 
 ## House upgrades
@@ -298,16 +376,28 @@ Type of attornies we are looking for are real estate litigators specializing in 
 | Replace ceiling fan in office                                                                                    | 2026     |          |
 | Replace ceiling fan in breakfast nook                                                                            | 2026     |          |
 | Fix/fill hole with insulation that was left open under generator hookup in office closet                         | 2026     |          |
+| Replace all interior door handles                                                                                | 2026     |          |
+| Fix deck landing ( removed rotted boards and footing)                                                            | 2026     |          |
+| Sealed and painted the deck supports                                                                             | 2026     |          |
+| Fix and paint island/kitchen                                                                                     | 2026     |          |
+| Replace light switches and faceplates by frontdoor and in the understairs closet                                 | 2026     |          |
+| Painted woodframe around the deck ceiling                                                                        | 2026     |          |
+| Remove paint that was on stairs and caulked both sides                                                           | 2026     |          |
+| Installed Blink security cameras                                                                                 | 2026     |          |
+| Installed Blink doorbell                                                                                         | 2026     |          |
+| Finished railing on the deck                                                                                     | 2026     |          |
 
 ## House TODO
 
-- Replace blinds at top of stairs
+- Replace all blinds
 - Touchup paint on front door
 - Replace light switches in living room, and upstairs
 - Replace light switch and disposal switch in kitchen
-- Fix and paint island/kitchen
 - Paint upstairs guest bathroom
 - Install handtowel holder in upstairs guest bathroom
 - Install towel hooks in upstairs guest bathroom
 - Rig the back gate up to always close if left open
 - Fix ceiling paint in masterbed room
+- Fix rotting on the wood on both sides of the front door
+- deck stairs
+- deck lattus frame
