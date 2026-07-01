@@ -1,10 +1,32 @@
 # [House stuff](https://alcash55.github.io/House/)
 
-## Deck timeline
-
 ## Claim
 
 The prior owners had knowledge of structural and foundational defects in the property. Evidence indicates they attempted minimal temporary repairs intended to conceal these defects rather than properly address them. Despite this knowledge, the prior owners failed to disclose the existence of these structural or foundational issues prior to the sale of the property.
+
+## Previous Owners
+
+[![](./images/linkedinCherish.png)](https://www.linkedin.com/in/cherishsamuels/)
+
+- Principal Global Engineering Manager, GREF Workplace Design & Construction @ Amazon
+
+[![](./images/linkedinRory.png)](https://www.linkedin.com/in/rorydubose/)
+
+- Operating Advisor | Multi-Site Service Buinesses
+
+### Disclosures
+
+   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+      <iframe src="./pdfs/disclosures/River Landing - PCD.pdf" width="100%" height="600px" frameborder="0"></iframe>
+      <figcaption>
+         Note: In section A, possible incorrect line items for:
+            - Gas starter for fireplace
+            - Whirlpool tub 
+      </figcaption>
+
+      <iframe src="./pdfs/disclosures/River Landing - disclosure .pdf" width="100%" height="600px" frameborder="0"></iframe>
+
+   </div>
 
 ## Apartment
 
@@ -52,29 +74,7 @@ Prior to purchasing 946 River Landing Drive, Alex and Erika were tenants at **13
 
 _Note: Security deposit refund status unknown — Arbors Harbor Town stated it would be processed after the final utility bill was paid._
 
-## Previous Owners
-
-[![](./images/linkedinCherish.png)](https://www.linkedin.com/in/cherishsamuels/)
-
-- Principal Global Engineering Manager, GREF Workplace Design & Construction @ Amazon
-
-[![](./images/linkedinRory.png)](https://www.linkedin.com/in/rorydubose/)
-
-- Operating Advisor | Multi-Site Service Buinesses
-
-### Disclosures
-
-   <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
-      <iframe src="./pdfs/disclosures/River Landing - PCD.pdf" width="100%" height="600px" frameborder="0"></iframe>
-      <figcaption>
-         Note: In section A, possible incorrect line items for:
-            - Gas starter for fireplace
-            - Whirlpool tub 
-      </figcaption>
-
-      <iframe src="./pdfs/disclosures/River Landing - disclosure .pdf" width="100%" height="600px" frameborder="0"></iframe>
-
-   </div>
+## Deck timeline
 
 ### All of these issues were not disclosed by previous owners
 
