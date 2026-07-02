@@ -72,8 +72,6 @@ Prior to purchasing 946 River Landing Drive, Alex and Erika were tenants at **13
 | Final utility bill paid 9/24/2025  | $4,182.34     |
 | **Total paid to break lease**      | **$6,356.84** |
 
-_Note: Security deposit refund status unknown — Arbors Harbor Town stated it would be processed after the final utility bill was paid._
-
 ## Deck timeline
 
 ### All of these issues were not disclosed by previous owners
