@@ -56,7 +56,8 @@ Prior to purchasing 946 River Landing Drive, Alex and Erika were tenants at **13
 </div>
 
 - **7/31/2025** — Alex returned signed NTV (`Office Copy NTV Wilt, Cash SIgned.pdf`) to Shelby.
-  <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
    <iframe src="./pdfs/arborsHarbor/Verification of Notice to Vacate Wilt, Cash.pdf" width="100%" height="600px" frameborder="0"></iframe>
 </div>
 
